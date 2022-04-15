@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sarveshkanwar 
 - 👀 I’m interested in ... basketball
-- 🌱 I’m currently learning ... Matplotli,.Seaborn
+- 🌱 I’m currently learning ... Matplotlib,.Seaborn,Pandas,Numpy..
 - 💞️ I’m looking to collaborate on ... DataScience
-- 📫 How to reach me ... please dont ever try.
+- 📫 How to reach me ... N.A .
+- 
 - 
 
 <!---
